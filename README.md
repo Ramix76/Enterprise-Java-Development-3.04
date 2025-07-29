@@ -1,1 +1,1 @@
-![Database Diagram](./diagram.png)
+![Database Diagram](./Lab-Flight.png)
